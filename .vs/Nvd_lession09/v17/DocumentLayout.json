@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\shared\\_nvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\shared\\_nvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\sinhviens\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\sinhviens\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\sinhviens\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\sinhviens\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\sinhviens\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\sinhviens\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\sinhviens\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\sinhviens\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\sinhviens\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\sinhviens\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|d:\\k22cnt3_aspnet\\nvd_lession09\\nvd_lession09\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A9EE68A1-E930-4BDC-A84A-49651D525588}|Nvd_lession09\\Nvd_lession09.csproj|solutionrelative:nvd_lession09\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvdDetails.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdDetails.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\SinhViens\\NvdDetails.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdDetails.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\SinhViens\\NvdDetails.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:08:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NvdEdit.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdEdit.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\SinhViens\\NvdEdit.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdEdit.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\SinhViens\\NvdEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:09:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NvdCreate.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdCreate.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\SinhViens\\NvdCreate.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdCreate.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\SinhViens\\NvdCreate.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:07:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvdDelete.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdDelete.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\SinhViens\\NvdDelete.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdDelete.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\SinhViens\\NvdDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:08:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NvdIndex.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdIndex.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\SinhViens\\NvdIndex.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\SinhViens\\NvdIndex.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\SinhViens\\NvdIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:09:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhViensController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Controllers\\SinhViensController.cs",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Controllers\\SinhViensController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Controllers\\SinhViensController.cs",
+              "RelativeToolTip": "Nvd_lession09\\Controllers\\SinhViensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:06:08.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NvdLayout.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\Shared\\_NvdLayout.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\Shared\\_NvdLayout.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\Shared\\_NvdLayout.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\Shared\\_NvdLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:29:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:30:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Nvd_lession09\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:32:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Nvd_lession09\\Models\\Model1.edmx",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession09\\Nvd_lession09\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Nvd_lession09\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-26T04:01:58.383Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
